@@ -1,4 +1,4 @@
-package com.example.graphqlservice;
+package com.example.graphqlserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
